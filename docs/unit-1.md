@@ -20,6 +20,13 @@ No la hice
 ## Actividad 5: Concepto de máquina virtual y partición de disco
 <iframe src="https://drive.google.com/file/d/12bvee1xvBWIe_iUAcpNzmzYmMiXbFcWX/preview" width="640" height="820" allow="autoplay"></iframe>
 
+## Actividad 6: Distribuciones y licencias en un sistema operativo
+<iframe src="https://drive.google.com/file/d/1DsbzSK11nuUjBTP9BhDB25ch1aBaWYDT/preview" width="640" height="820" allow="autoplay"></iframe>
+
+## Actividad 7: Producto integrador portafolio de evidencias
+
+Pendiente por agregar
+
 ## Conclusión
 
 Pendiente por escribir

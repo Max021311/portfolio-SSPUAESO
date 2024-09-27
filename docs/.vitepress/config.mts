@@ -29,6 +29,8 @@ export default defineConfig({
           { text: 'Actividad 3', link: '/unit-1#actividad-3-configuracion-de-dispositivos' },
           { text: 'Actividad 4', link: '/unit-1#actividad-4-dispositivos-fisicos' },
           { text: 'Actividad 5', link: '/unit-1#actividad-5-concepto-de-maquina-virtual-y-particion-de-disco' },
+          { text: 'Actividad 6', link: '/unit-1#actividad-6-distribuciones-y-licencias-en-un-sistema-operativo' },
+          { text: 'Actividad 7', link: '/unit-1#actividad-7-producto-integrador-portafolio-de-evidencias' },
           { text: 'Conclusión', link: '/unit-1#conclusion' },
         ]
       }
