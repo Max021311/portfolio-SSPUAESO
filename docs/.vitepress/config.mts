@@ -25,7 +25,6 @@ export default defineConfig({
         link: '/unit-1',
         items: [
           { text: 'Actividad 1', link: '/unit-1#actividad-1-el-hardware-de-la-computadora-y-el-sistema-operativo' },
-          { text: 'Actividad 2', link: '/unit-1#actividad-2-sistemas-operativos-y-sus-tipos' },
           { text: 'Actividad 3', link: '/unit-1#actividad-3-configuracion-de-dispositivos' },
           { text: 'Actividad 4', link: '/unit-1#actividad-4-dispositivos-fisicos' },
           { text: 'Actividad 5', link: '/unit-1#actividad-5-concepto-de-maquina-virtual-y-particion-de-disco' },
