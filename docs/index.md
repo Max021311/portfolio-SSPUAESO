@@ -10,9 +10,9 @@ hero:
     - theme: brand
       text: Unidad temática 1
       link: /unit-1
-    # - theme: brand
-    #   text: Unidad temática 2
-    #   link: /unit-2
+    - theme: brand
+      text: Unidad temática 2
+      link: /unit-2
 
 # features:
 #   - title: Feature A

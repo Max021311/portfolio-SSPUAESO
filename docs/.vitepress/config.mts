@@ -9,7 +9,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Inicio', link: '/' },
-      { text: 'Unidad temática 1', link: '/unit-1' }
+      { text: 'Unidad temática 1', link: '/unit-1' },
+      { text: 'Unidad temática 2', link: '/unit-2' }
     ],
     outline: false,
     sidebar: [
@@ -31,6 +32,19 @@ export default defineConfig({
           { text: 'Actividad 6', link: '/unit-1#actividad-6-distribuciones-y-licencias-en-un-sistema-operativo' },
           { text: 'Actividad 7', link: '/unit-1#actividad-7-producto-integrador-portafolio-de-evidencias' },
           { text: 'Conclusión', link: '/unit-1#conclusion' },
+        ]
+      },
+      {
+        text: 'Unidad temática 2: Configuración de servicios',
+        link: '/unit-2',
+        items: [
+          { text: 'Actividad 8', link: 'unit-2#actividad-8-conociendo-los-procesos-hilos-y-su-entorno' },
+          { text: 'Actividad 9', link: 'unit-2#actividad-9-concurrencia-exclusion-mutua-sincronizacion-y-problemas-de-control'},
+          { text: 'Actividad 10', link: 'unit-2#actividad-10-exclusion-mutua'},
+          { text: 'Actividad 11', link: 'unit-2#actividad-11-productor-consumidor'},
+          { text: 'Actividad 12', link: 'unit-2#actividad-12-soluciones-al-interbloqueo-filosofos'},
+          { text: 'Actividad 13', link: 'unit-2#actividad-13-producto-integrador-portafolio-de-evidencias'},
+          { text: 'Conclusión', link: '/unit-2#conclusion' },
         ]
       }
     ]
