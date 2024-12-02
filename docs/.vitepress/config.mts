@@ -10,7 +10,8 @@ export default defineConfig({
     nav: [
       { text: 'Inicio', link: '/' },
       { text: 'Unidad temática 1', link: '/unit-1' },
-      { text: 'Unidad temática 2', link: '/unit-2' }
+      { text: 'Unidad temática 2', link: '/unit-2' },
+      { text: 'Unidad temática 3', link: '/unit-3' }
     ],
     outline: false,
     sidebar: [
@@ -45,6 +46,17 @@ export default defineConfig({
           { text: 'Actividad 12', link: 'unit-2#actividad-12-soluciones-al-interbloqueo-filosofos'},
           { text: 'Actividad 13', link: 'unit-2#actividad-13-producto-integrador-portafolio-de-evidencias'},
           { text: 'Conclusión', link: '/unit-2#conclusion' },
+        ]
+      },
+      {
+        text: 'Unidad temática 3: Optimización',
+        link: '/unit-3',
+        items: [
+          { text: 'Actividad 14', link: 'unit-3#actividad-14-scripts-para-optimizar'},
+          { text: 'Actividad 15', link: 'unit-3#actividad-15-paralelismo'},
+          { text: 'Actividad 16', link: 'unit-3#actividad-16-seguridad'},
+          { text: 'Actividad 17', link: 'unit-3#actividad-17-producto-integrador-portafolio-de-evidencias'},
+          { text: 'Conclusión', link: '/unit-3#conclusion' },
         ]
       }
     ]

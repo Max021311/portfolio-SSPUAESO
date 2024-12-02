@@ -13,6 +13,9 @@ hero:
     - theme: brand
       text: Unidad temática 2
       link: /unit-2
+    - theme: brand
+      text: Unidad temática 3
+      link: /unit-3
 
 # features:
 #   - title: Feature A
