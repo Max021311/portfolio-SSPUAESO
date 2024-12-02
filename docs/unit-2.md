@@ -1,5 +1,11 @@
 ---
 layout: doc
+prev: 
+  text: 'Unidad temática 1: Instalación de sistemas operativos'
+  link: /unit-1
+next: 
+  text: 'Unidad temática 3: Optimización'
+  link: /unit-3
 ---
 
 # Unidad temática 2: Configuración de servicios

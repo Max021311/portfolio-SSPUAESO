@@ -1,5 +1,9 @@
 ---
 layout: doc
+prev: 
+  text: 'Unidad temática 2: Configuración de servicios'
+  link: /unit-2
+next: false
 ---
 
 # Unidad temática 3: Optimización
